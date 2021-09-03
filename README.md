@@ -4,6 +4,6 @@ Tier-2: Intermediate Projects
 
 3 - BookFinder App For Android Devices
 
-![BitMasks_app_by_command](https://user-images.githubusercontent.com/50905347/132015566-4effb873-739c-435a-bf8b-3cf95f90abb5.jpg)
+![BookFinderApp_by_command_pic](https://user-images.githubusercontent.com/50905347/132015627-c5c9371b-98c7-44d5-8681-34775a9f566a.jpg)
 
 florinpop17 App Ideas Collection - [Link for details](https://github.com/florinpop17/app-ideas)
